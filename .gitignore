@@ -1,0 +1,4 @@
+.env
+venv
+dont_work
+database.db
